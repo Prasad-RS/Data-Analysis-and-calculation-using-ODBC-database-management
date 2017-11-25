@@ -1,0 +1,2 @@
+# Data-Analysis-and-calculation-using-ODBS-database-management
+An Qt based Application to calculate the total coconuts collected in the field of a provider, who supplies coconut to a merchant based on data,cost and damage counts, An user (merchant) can able to collect and maintain the list of providers and their individual feild details in the database, and can able to plot the graph for the data's, filtered by single field and total quantity.
